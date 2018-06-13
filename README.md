@@ -4,9 +4,7 @@ You can use the [editor on GitHub](https://github.com/doinwebthings/doinwebthing
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-“tencent://message/?uin=QQ号&Site=www.xxxxxxx.com.cn&Menu=yes”
 
-“tencent://message/?uin=”+“QQ”+“&Site=https://doinwebthings.github.io/&Menu=yes”
 <a target="_blank" href=“tencent://message/?uin=1633774190&Site=https://doinwebthings.github.io&Menu=yes”><img border="0" src="http://wpa.qq.com/pa?p=2::52" alt="在线咨询" title="在线咨询"/></a>
 ### Markdown
 

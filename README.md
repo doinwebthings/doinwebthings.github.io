@@ -4,8 +4,7 @@ You can use the [editor on GitHub](https://github.com/doinwebthings/doinwebthing
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-
-<a target="_blank" href=“tencent://message/?uin=1633774190&Site=https://doinwebthings.github.io&Menu=yes”><img border="0" src="http://wpa.qq.com/pa?p=2::52" alt="在线咨询" title="在线咨询"/></a>
+<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1633774190&site=doinwebthings.github.io&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1633774190:41" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
